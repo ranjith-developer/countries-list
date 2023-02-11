@@ -1,0 +1,26 @@
+.app-container {
+  background-color: #161624;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+}
+
+.countries-heading {
+  color: #f8fafc;
+}
+
+.countries-list-container {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+
+.updated-list-container {
+  display: flex;
+  list-style-type: none;
+}
+
+.no-countries-txt {
+  color: #f8fafc;
+  font-size: 32px;
+}

@@ -1,0 +1,30 @@
+.flag {
+  width: 100%;
+}
+
+.visited-country {
+  display: flex;
+  flex-direction: column;
+  margin-right: 12px;
+}
+
+.name-btn-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  align-items: center;
+}
+
+.country-name {
+  color: #f1f5f9;
+  font-size: 18px;
+}
+
+.country-btn {
+  color: #f8fafc;
+  background-color: transparent;
+  border: 1px solid #f1f5f9;
+  border-radius: 5px;
+  font-size: 12px;
+  height: 28px;
+}
